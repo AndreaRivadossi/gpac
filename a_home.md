@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Gruppo podistico amici di Caleppio
 permalink: /
 ---
 

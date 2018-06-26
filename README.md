@@ -1,37 +1,7 @@
-Freshman21
+Gruppo podistico amici di Caleppio
 ==========
 
-Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
-
-A tribute to WordPress Theme Twenty-Twelve and Twenty-eleven.
-
-Enjoy.
-
-
-![Screen](http://i.imgur.com/oSp7kacl.png)
-
-### Version 2.1 update 2016.06.06
-
-- master branch: the simplest template, original version with
-	* Open Graph META Tags
-	* Microdata(schema.org)
-
-- gh-pages branch: master branch with 
-
-	* [google analytics js template](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_analytics.js)
-        * [BackToTop js script](https://github.com/yulijia/freshman21/tree/gh-pages/js)
-        * <q>readmore</q> module
-        * [keyboard shortcuts for pagination](http://yulijia.net/freshman21/news/2016/05/24/new-features.html)
-	* font awesome icon
-	* [Google search](https://github.com/yulijia/freshman21/blob/gh-pages/_includes/google_search.js)
-
-Clone master branch: 
-
-` git clone https://github.com/yulijia/freshman21.git -b master --single-branch`
-
-Clone gh-pages branch: 
-
-`git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
+Based on [Freshman21](http://github.com/yulijia/freshman21), a Jekyll blog theme.
 
 
 ### A Summary of Features
@@ -41,7 +11,7 @@ Clone gh-pages branch:
 - Comments by Disqus
 - Support LaTeX (by MathJax)
 - Syntax highlighting
-- Multiple Languages support 
+- Multiple Languages support
     * English
     * Chinese
     * Japanese (Contributed by [kokeiro001](https://github.com/kokeiro001))
@@ -61,11 +31,3 @@ $ git clone https://github.com/yulijia/freshman21.git
 $ mv freshman21/ yourblogname.github.io/
 
 ```
-
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
-
